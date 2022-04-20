@@ -124,6 +124,13 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
+const getUserInfo = () => {
+    inquirer.prompt(questions).then((answers) => {
+        fs.writeFile("./utils/README.md", generateData({ ...answers}), (err) => {
+            if (err) throw new Error(err);
+        });
+    });
+};
 
 // TODO: Create a function to initialize app
 function init() {}
