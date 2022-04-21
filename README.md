@@ -6,7 +6,9 @@
 a professional README.md generated using node.js and inquirere.js package
 
 ## **Video**
-"C:\Users\mikey\Downloads\Professional-README.mp4"
+https://user-images.githubusercontent.com/96913841/164501528-31d2aa70-d4d0-4c6e-8068-96836a4ba125.mp4
+
+
 ## **Table of Contents**
 <a href="#installation">Installation</a> 
 

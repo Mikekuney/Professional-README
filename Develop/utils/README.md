@@ -4,7 +4,7 @@
     ![License: Unlicensed](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
     ## **Purpose**
-    a professional README.md generated using node.js and inquirere.js package
+    a prpofessional README generated using node and inquirer
 
     ## **Table of Contents**
     <a href="#installation">Installation</a> 
@@ -21,10 +21,10 @@
 
 
     ## <h2 id="installation">**Installation**</h2>
-    w/ node js and inquirer package
+    w/ node.js and inquirer.js
 
     ## <h2 id="usage">**Usage**</h2>
-    to show knowledge in using node.js with inquirer package
+    a professional readme
 
     
         ## <h2 id="userLicense">**License**</h2>
@@ -35,7 +35,7 @@
         
 
     ## <h2 id="contributions">**Contributions**</h2>
-    Mike Kuney
+    Mike Kunye
 
     ## <h2 id="tests">**Tests**</h2>
     undefined
@@ -47,4 +47,4 @@
 
     or visit my GitHub profile at: 
 
-    https://github.com/Mikekuney
+    https://github.com/MikeKuney
