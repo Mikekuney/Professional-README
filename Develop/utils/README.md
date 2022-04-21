@@ -1,10 +1,10 @@
 
     # **Professional-README**
 
-    ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+    ![License: Unlicensed](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
     ## **Purpose**
-    A professional README.md generated using node.js and inquirer.js
+    a professional README.md generated using node.js and inquirere.js package
 
     ## **Table of Contents**
     <a href="#installation">Installation</a> 
@@ -21,21 +21,21 @@
 
 
     ## <h2 id="installation">**Installation**</h2>
-    inquirer.js
+    w/ node js and inquirer package
 
     ## <h2 id="usage">**Usage**</h2>
-    to generate a professional README.md file 
+    to show knowledge in using node.js with inquirer package
 
     
         ## <h2 id="userLicense">**License**</h2>
         ### <em>NOTICE</em>:
-        This project is licensed under the MIT license.
+        This project is licensed under the Unlicensed license.
         For more information, CLick Here:
-        https://opensource.org/licenses/MIT
+        http://unlicense.org/
         
 
     ## <h2 id="contributions">**Contributions**</h2>
-    Michael Kuney
+    Mike Kuney
 
     ## <h2 id="tests">**Tests**</h2>
     undefined

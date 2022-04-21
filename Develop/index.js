@@ -4,7 +4,7 @@ const inquirer = require('inquirer');
 
 const fs = require('fs');
 
-const generateData = require('./utils/generateMarkdown');
+const generateData = require('./utils/generateMarkdown.js');
 
 const { getuid } = require('process');
 
@@ -131,6 +131,10 @@ const getUserInfo = () => {
         });
     });
 };
+
+
+
+
 
 // TODO: Create a function to initialize app
 function init() {

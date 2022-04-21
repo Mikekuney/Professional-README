@@ -72,16 +72,16 @@ function generateMarkdown(data) {
         tests,
         github,
         email,
-        userLicense
+        userLicense,
     } = data;
     
     return `
-    # **${data.title}**
+    # **${title}**
 
     ${renderLicenseBadge(userLicense)}
 
     ## **Purpose**
-    ${data.description}
+    ${description}
 
     ## **Table of Contents**
     <a href="#installation">Installation</a> \n
@@ -92,24 +92,24 @@ function generateMarkdown(data) {
     <a href="questions">Questions</a> \n
 
     ## <h2 id="installation">**Installation**</h2>
-    ${data.installation}
+    ${installation}
 
     ## <h2 id="usage">**Usage**</h2>
-    ${data.usage}
+    ${usage}
 
     ${renderLicenseSection(userLicense)}
 
     ## <h2 id="contributions">**Contributions**</h2>
-    ${data.contributions}
+    ${contributions}
 
     ## <h2 id="tests">**Tests**</h2>
-    ${data.tests}
+    ${tests}
 
     ## <h2 id="questions">**Questions**</h2>
     If you have any questions about the repo, please contact me at: \n 
-    ${data.email} \n
+    ${email} \n
     or visit my GitHub profile at: \n
-    https://github.com/${data.github}
+    https://github.com/${github}
 `;
 }
 
