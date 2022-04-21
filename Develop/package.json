@@ -1,13 +1,21 @@
 {
-  "name": "professional-README",
+  "name": "professional-readme",
   "version": "1.0.0",
-  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikekuney/Professional-README.git"
+  },
+  "author": "Mikekuney",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikekuney/Professional-README/issues"
+  },
+  "homepage": "https://github.com/Mikekuney/Professional-README#readme",
   "dependencies": {
     "inquirer": "^8.2.2"
   }
