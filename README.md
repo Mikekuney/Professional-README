@@ -26,12 +26,12 @@ w/ node js and inquirer package
 to show knowledge in using node.js with inquirer package
 
 
-    ## <h2 id="userLicense">**License**</h2>
-    ### <em>NOTICE</em>:
-    This project is licensed under the Unlicensed license.
-    For more information, CLick Here:
-    http://unlicense.org/
-    
+## <h2 id="userLicense">**License**</h2>
+### <em>NOTICE</em>:
+This project is licensed under the Unlicensed license.
+For more information, CLick Here:
+http://unlicense.org/
+
 
 ## <h2 id="contributions">**Contributions**</h2>
 Mike Kuney
